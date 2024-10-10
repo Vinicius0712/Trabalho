@@ -10,6 +10,7 @@
 </head>
 
 <body>
+<a href="../escaleno/index.php"><input type="button" value="Cadastro de Escaleno"></a>
 <a href="../triangulo/index.php"><input type="button" value="Cadastro de Triângulo"></a>
 <a href="../circulo/index.php"><input type="button" value="Cadastro de Círculo"></a>
 <a href="../unidade/index.php"><input type="button" value="Cadastro de Medida"></a><br><br>
